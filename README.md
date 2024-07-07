@@ -10,9 +10,7 @@ Steps is a simple React application that guides the user through a series of ste
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Key Concepts](#key-concepts)
-- [App.js Code](#appjs-code)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -31,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/steps.git
-```
+   ```
 2. Navigate to the project directory:
    ```sh
    cd fast-react-pizza-co
